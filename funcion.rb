@@ -1,6 +1,6 @@
 class Prueba
     def funcion
-        "Hola"
+        "Hola, qué tal."
     end
 end
 
